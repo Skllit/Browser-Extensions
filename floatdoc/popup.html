@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FloatDOC</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 320px;
+      padding: 20px;
+      margin: 0;
+      background-color: #f8f8f8;
+      color: #333;
+    }
+    textarea {
+      width: 100%;
+      height: 150px;
+      margin-bottom: 10px;
+      padding: 10px;
+      font-size: 14px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+    button {
+      padding: 8px 16px;
+      margin-right: 10px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    .shortcut-info {
+      font-size: 12px;
+      margin-top: 10px;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <textarea id="note" placeholder="Write your notes here..."></textarea>
+  <button id="clearButton">Clear</button>
+  <button id="saveButton">Save</button>
+  <p class="shortcut-info">Press <kbd>Ctrl+M</kbd> to save as text file</p>
+
+  <script src="popup.js"></script>
+</body>
+</html>
