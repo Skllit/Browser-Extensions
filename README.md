@@ -20,14 +20,17 @@ steps to use
 
 7. **Select Extension Folder**: A file browser window will open. Navigate to the folder containing your extension and select it. Click "Open" or "Select Folder" to load the extension into the browser.
 
-8. **Set Up Shortcut**:
+8. ![image](https://github.com/Skllit/Browser-Extensions/assets/101611090/56625b6d-12e9-4327-8d8c-681337174165)
+
+
+9. **Set Up Shortcut**:
    - Once the extension is loaded, scroll down to find the extension card.
    - Below the extension card, click on the "Keyboard shortcuts" option.
    - Find the command related to your extension (e.g., "Open the Floating Notepad extension") and click on the field next to it.
    - Press the keys you want to use as a shortcut (e.g., Ctrl + G).
    - Click "Save" or "OK" to confirm the shortcut.
 
-9. **Test the Shortcut**: Close the Extensions page and any other browser settings pages. Now, use the shortcut you set up (e.g., Ctrl + G) to activate your extension.
+10. **Test the Shortcut**: Close the Extensions page and any other browser settings pages. Now, use the shortcut you set up (e.g., Ctrl + G) to activate your extension.
 
 That's it! Your extension should now be loaded in the browser, and you can use the shortcut to activate it whenever needed. If you encounter any issues or have further questions, feel free to ask!
 
